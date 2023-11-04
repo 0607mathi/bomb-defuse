@@ -1,12 +1,11 @@
 //start page script code.....
 
 function game(){
-    location.href="../src/game.html"
-    alert(`                     Plaese Kindly use your Site in full Screen 
-                                         Thank you...!      `);
+    location.href="../src/game.html";
+    alert(`Plaese Kindly use your Site in full Screen  thank you...!`);
 }
 
-// Game page script code.....
+// Game page script code.....//
 
 var randomNumber=Math.floor(Math.random()*100);
 console.log(randomNumber);
