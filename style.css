@@ -66,7 +66,7 @@ h4{
 /* second page */
 
 #body2{
-    background-image: url('../assets/images/bomb\ diffuse.jpg');
+    background-image: url('bomb\ diffuse.jpg');
     background-size:112%;
     background-repeat: no-repeat;
 }
@@ -175,7 +175,7 @@ h4{
 /* win game  page */
 
 #body3{
-    background-image: url('../assets/images/win.webp');
+    background-image: url('win.webp');
     background-size: cover;
 }
 
@@ -207,7 +207,7 @@ h4{
 /* Mission fail */
 
 .body4{
-    background-image: url('../assets/images/loss.png');
+    background-image: url('loss.png');
     background-size: cover;
 }
 
