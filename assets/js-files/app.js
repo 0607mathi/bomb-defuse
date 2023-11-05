@@ -1,7 +1,7 @@
 //start page script code.....
 
 function game(){
-    location.href="../../src/game.html";
+    location.href="../src/game.html";
     alert(`Plaese Kindly use your Site in full Screen  thank you...!`);
 }
 
