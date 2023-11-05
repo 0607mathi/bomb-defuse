@@ -1,7 +1,7 @@
 //start page script code.....
 
 function game(){
-    location.href="../src/game.html";
+    location.href="../../src/game.html";
     alert(`Plaese Kindly use your Site in full Screen  thank you...!`);
 }
 
@@ -20,7 +20,7 @@ function check(){
        
     }
     else if(randomNumber==num){
-         location.href="../src/win.html";
+         location.href="../../src/win.html";
     }
     else if(randomNumber>num){
         document.getElementById("message").innerHTML="Your Guess is low";
@@ -30,7 +30,7 @@ function check(){
     }
     if(chance==0){
         chance=10;
-        location.href="../src/loss.html";
+        location.href="../../src/loss.html";
     }
    
 }
@@ -38,6 +38,6 @@ function check(){
 // mission finished ! and mission Accompleted !
 
 function home(){
-    location.href="../index.html"
+    location.href="../../index.html"
 }
 
